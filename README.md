@@ -6,7 +6,7 @@
 
 You can test them by running 
 
-"Node <script-name>" in your terminal
+"Node file_name.js" in your terminal
 
 dependencies:
 
